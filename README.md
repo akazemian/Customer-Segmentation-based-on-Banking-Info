@@ -1,6 +1,6 @@
 
 ### Overview
-In this project, I use old financial information belonging to US citizens to classify them into difefrent groups based on their spending behavior and demographic.
+In this project, I use old financial information belonging to US citizens to classify them into difefrent groups based on their demographic.
 
 
 ### Data
@@ -16,6 +16,8 @@ The data can be downloaded [here](https://drive.google.com/file/d/1zAjnf936aHkwV
 - twm_checking_tran - information about savings transactions (subset of twm_transactions)
 - twm_credit_tran - information about credit checking (subset of twm_transactions)
 
+
+ I'm only using the twm_customer table in this project
 
 ### Project Outline
 
