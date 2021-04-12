@@ -4,20 +4,7 @@ In this project, I use old financial information belonging to US citizens to cla
 
 
 ### Data
-The data can be downloaded [here](https://drive.google.com/file/d/1zAjnf936aHkwVCq_BmA47p4lpRjyRzMf/view?usp=sharing). The and contains the following tables:
-
-- twm_customer - information about customers
-- twm_accounts - information about accounts
-- twm_checking_accounts - information about checking accounts (subset of twm_accounts)
-- twm_credit_accounts - information about checking accounts (subset of twm_accounts)
-- twm_savings_accounts - information about checking accounts (subset of twm_accounts)
-- twm_transactions - information about financial transactions
-- twm_savings_tran - information about savings transactions (subset of twm_transactions)
-- twm_checking_tran - information about savings transactions (subset of twm_transactions)
-- twm_credit_tran - information about credit checking (subset of twm_transactions)
-
-
- I'm only using the twm_customer table in this project
+The data is available in this repo as twm_customer
 
 ### Project Outline
 
